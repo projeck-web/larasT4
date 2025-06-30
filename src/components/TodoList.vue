@@ -164,7 +164,7 @@ onMounted(loadTodos);
   max-width: 500px;
   margin: 50px auto;
   padding: 30px;
-  background-color: #e6f0fa;
+  background-color: #75e8f0;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0, 122, 255, 0.2);
   font-family: 'Segoe UI', sans-serif;
@@ -181,7 +181,7 @@ h1::after {
   
   display: block;
   font-size: 14px;
-  color: #2c3e50;
+  color: #0d1113;
   margin-top: 8px;
 }
 h5 {
@@ -207,7 +207,7 @@ input[type="text"] {
 
 button {
   padding: 10px 14px;
-  background-color: #3498db;
+  background-color: #45e68b;
   border: none;
   border-radius: 6px;
   color: white;
@@ -216,7 +216,7 @@ button {
 }
 
 button:hover {
-  background-color: #2980b9;
+  background-color: #159e12;
 }
 
 ul {
